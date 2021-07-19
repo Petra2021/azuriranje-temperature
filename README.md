@@ -1,0 +1,1 @@
+# azuriranje-temperature
